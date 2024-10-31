@@ -1,0 +1,16 @@
+/* styles/EfficiencyPage.css */
+.efficiency-page {
+    max-width: 1219px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #E0F1E7;
+  }
+  
+  h1 {
+    font-family: 'Cafe24 Ssurround', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  

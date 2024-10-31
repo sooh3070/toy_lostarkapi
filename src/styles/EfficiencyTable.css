@@ -1,0 +1,43 @@
+/* styles/EfficiencyTable.css */
+.efficiency-table {
+    width: 100%;
+    background: #FFFFFF;
+    border-radius: 10px;
+    border: 2px solid #BDBDBD;
+    margin-bottom: 20px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  }
+  
+  .table-header {
+    background: rgba(155, 168, 156, 0.27);
+    font-family: 'Cafe24 Ssurround', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #BDBDBD;
+  }
+  
+  .table-row {
+    display: flex;
+    border-bottom: 1px solid #BDBDBD;
+  }
+  
+  .cell {
+    flex: 1;
+    font-family: 'Cafe24 Ssurround', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .table-footer {
+    font-family: 'Cafe24 Ssurround', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 10px;
+    text-align: left;
+    color: #000000;
+  }
+  

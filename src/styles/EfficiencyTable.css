@@ -33,11 +33,27 @@
   }
   
   .table-footer {
+    display: flex;
+    justify-content: space-between;
     font-family: 'Cafe24 Ssurround', sans-serif;
     font-size: 20px;
     font-weight: 700;
     padding: 10px;
-    text-align: left;
     color: #000000;
   }
   
+  .left-footer {
+    text-align: left;
+  }
+  
+  .right-footer {
+    text-align: right;
+  }
+
+  .highlight-time {
+    color: #FF6347; /* 시간 부분 색상, 예: 토마토 색 */
+  }
+  
+  .highlight-gold {
+    color: #FFD700; /* 골드 부분 색상, 예: 금색 */
+  }
